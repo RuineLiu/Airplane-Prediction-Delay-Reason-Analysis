@@ -1,0 +1,85 @@
+date,holiday_name,is_major_holiday,holiday_category,impact_level,year,month,day,day_of_week,day_of_week_num
+2018-01-01,New Year's Day,1,Winter Holiday,extreme,2018,1,1,Monday,1
+2018-01-15,Martin Luther King Jr. Day,0,Other Holiday,medium,2018,1,15,Monday,1
+2018-02-19,Washington's Birthday,0,Other Holiday,medium,2018,2,19,Monday,1
+2018-05-28,Memorial Day,1,Summer Holiday,high,2018,5,28,Monday,1
+2018-07-04,Independence Day,1,Summer Holiday,high,2018,7,4,Wednesday,3
+2018-09-03,Labor Day,1,Summer Holiday,high,2018,9,3,Monday,1
+2018-10-08,Columbus Day,0,Other Holiday,medium,2018,10,8,Monday,1
+2018-11-11,Veterans Day,0,Other Holiday,medium,2018,11,11,Sunday,7
+2018-11-12,Veterans Day (observed),0,Other Holiday,medium,2018,11,12,Monday,1
+2018-11-22,Thanksgiving Day,0,Other Holiday,medium,2018,11,22,Thursday,4
+2018-12-25,Christmas Day,1,Winter Holiday,extreme,2018,12,25,Tuesday,2
+2019-01-01,New Year's Day,1,Winter Holiday,extreme,2019,1,1,Tuesday,2
+2019-01-21,Martin Luther King Jr. Day,0,Other Holiday,medium,2019,1,21,Monday,1
+2019-02-18,Washington's Birthday,0,Other Holiday,medium,2019,2,18,Monday,1
+2019-05-27,Memorial Day,1,Summer Holiday,high,2019,5,27,Monday,1
+2019-07-04,Independence Day,1,Summer Holiday,high,2019,7,4,Thursday,4
+2019-09-02,Labor Day,1,Summer Holiday,high,2019,9,2,Monday,1
+2019-10-14,Columbus Day,0,Other Holiday,medium,2019,10,14,Monday,1
+2019-11-11,Veterans Day,0,Other Holiday,medium,2019,11,11,Monday,1
+2019-11-28,Thanksgiving Day,0,Other Holiday,medium,2019,11,28,Thursday,4
+2019-12-25,Christmas Day,1,Winter Holiday,extreme,2019,12,25,Wednesday,3
+2020-01-01,New Year's Day,1,Winter Holiday,extreme,2020,1,1,Wednesday,3
+2020-01-20,Martin Luther King Jr. Day,0,Other Holiday,medium,2020,1,20,Monday,1
+2020-02-17,Washington's Birthday,0,Other Holiday,medium,2020,2,17,Monday,1
+2020-05-25,Memorial Day,1,Summer Holiday,high,2020,5,25,Monday,1
+2020-07-03,Independence Day (observed),0,Other Holiday,medium,2020,7,3,Friday,5
+2020-07-04,Independence Day,1,Summer Holiday,high,2020,7,4,Saturday,6
+2020-09-07,Labor Day,1,Summer Holiday,high,2020,9,7,Monday,1
+2020-10-12,Columbus Day,0,Other Holiday,medium,2020,10,12,Monday,1
+2020-11-11,Veterans Day,0,Other Holiday,medium,2020,11,11,Wednesday,3
+2020-11-26,Thanksgiving Day,0,Other Holiday,medium,2020,11,26,Thursday,4
+2020-12-25,Christmas Day,1,Winter Holiday,extreme,2020,12,25,Friday,5
+2021-01-01,New Year's Day,1,Winter Holiday,extreme,2021,1,1,Friday,5
+2021-01-18,Martin Luther King Jr. Day,0,Other Holiday,medium,2021,1,18,Monday,1
+2021-02-15,Washington's Birthday,0,Other Holiday,medium,2021,2,15,Monday,1
+2021-05-31,Memorial Day,1,Summer Holiday,high,2021,5,31,Monday,1
+2021-06-18,Juneteenth National Independence Day (observed),0,Other Holiday,medium,2021,6,18,Friday,5
+2021-06-19,Juneteenth National Independence Day,0,Other Holiday,medium,2021,6,19,Saturday,6
+2021-07-04,Independence Day,1,Summer Holiday,high,2021,7,4,Sunday,7
+2021-07-05,Independence Day (observed),0,Other Holiday,medium,2021,7,5,Monday,1
+2021-09-06,Labor Day,1,Summer Holiday,high,2021,9,6,Monday,1
+2021-10-11,Columbus Day,0,Other Holiday,medium,2021,10,11,Monday,1
+2021-11-11,Veterans Day,0,Other Holiday,medium,2021,11,11,Thursday,4
+2021-11-25,Thanksgiving Day,0,Other Holiday,medium,2021,11,25,Thursday,4
+2021-12-24,Christmas Day (observed),0,Other Holiday,medium,2021,12,24,Friday,5
+2021-12-25,Christmas Day,1,Winter Holiday,extreme,2021,12,25,Saturday,6
+2021-12-31,New Year's Day (observed),0,Other Holiday,medium,2021,12,31,Friday,5
+2022-01-01,New Year's Day,1,Winter Holiday,extreme,2022,1,1,Saturday,6
+2022-01-17,Martin Luther King Jr. Day,0,Other Holiday,medium,2022,1,17,Monday,1
+2022-02-21,Washington's Birthday,0,Other Holiday,medium,2022,2,21,Monday,1
+2022-05-30,Memorial Day,1,Summer Holiday,high,2022,5,30,Monday,1
+2022-06-19,Juneteenth National Independence Day,0,Other Holiday,medium,2022,6,19,Sunday,7
+2022-06-20,Juneteenth National Independence Day (observed),0,Other Holiday,medium,2022,6,20,Monday,1
+2022-07-04,Independence Day,1,Summer Holiday,high,2022,7,4,Monday,1
+2022-09-05,Labor Day,1,Summer Holiday,high,2022,9,5,Monday,1
+2022-10-10,Columbus Day,0,Other Holiday,medium,2022,10,10,Monday,1
+2022-11-11,Veterans Day,0,Other Holiday,medium,2022,11,11,Friday,5
+2022-11-24,Thanksgiving Day,0,Other Holiday,medium,2022,11,24,Thursday,4
+2022-12-25,Christmas Day,1,Winter Holiday,extreme,2022,12,25,Sunday,7
+2022-12-26,Christmas Day (observed),0,Other Holiday,medium,2022,12,26,Monday,1
+2023-01-01,New Year's Day,1,Winter Holiday,extreme,2023,1,1,Sunday,7
+2023-01-02,New Year's Day (observed),0,Other Holiday,medium,2023,1,2,Monday,1
+2023-01-16,Martin Luther King Jr. Day,0,Other Holiday,medium,2023,1,16,Monday,1
+2023-02-20,Washington's Birthday,0,Other Holiday,medium,2023,2,20,Monday,1
+2023-05-29,Memorial Day,1,Summer Holiday,high,2023,5,29,Monday,1
+2023-06-19,Juneteenth National Independence Day,0,Other Holiday,medium,2023,6,19,Monday,1
+2023-07-04,Independence Day,1,Summer Holiday,high,2023,7,4,Tuesday,2
+2023-09-04,Labor Day,1,Summer Holiday,high,2023,9,4,Monday,1
+2023-10-09,Columbus Day,0,Other Holiday,medium,2023,10,9,Monday,1
+2023-11-10,Veterans Day (observed),0,Other Holiday,medium,2023,11,10,Friday,5
+2023-11-11,Veterans Day,0,Other Holiday,medium,2023,11,11,Saturday,6
+2023-11-23,Thanksgiving Day,0,Other Holiday,medium,2023,11,23,Thursday,4
+2023-12-25,Christmas Day,1,Winter Holiday,extreme,2023,12,25,Monday,1
+2024-01-01,New Year's Day,1,Winter Holiday,extreme,2024,1,1,Monday,1
+2024-01-15,Martin Luther King Jr. Day,0,Other Holiday,medium,2024,1,15,Monday,1
+2024-02-19,Washington's Birthday,0,Other Holiday,medium,2024,2,19,Monday,1
+2024-05-27,Memorial Day,1,Summer Holiday,high,2024,5,27,Monday,1
+2024-06-19,Juneteenth National Independence Day,0,Other Holiday,medium,2024,6,19,Wednesday,3
+2024-07-04,Independence Day,1,Summer Holiday,high,2024,7,4,Thursday,4
+2024-09-02,Labor Day,1,Summer Holiday,high,2024,9,2,Monday,1
+2024-10-14,Columbus Day,0,Other Holiday,medium,2024,10,14,Monday,1
+2024-11-11,Veterans Day,0,Other Holiday,medium,2024,11,11,Monday,1
+2024-11-28,Thanksgiving Day,0,Other Holiday,medium,2024,11,28,Thursday,4
+2024-12-25,Christmas Day,1,Winter Holiday,extreme,2024,12,25,Wednesday,3

@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+venv/
+
+# large datasets
+flights_with_weather_by_year/
+flights_with_weather_propagation_by_year/
+Data Analysis/flight_data_with_features.parquet/
+flights_2018_2022_clean.parquet
+weather_data_filled.parquet
+weather_data_2018_2022.parquet
+*.parquet

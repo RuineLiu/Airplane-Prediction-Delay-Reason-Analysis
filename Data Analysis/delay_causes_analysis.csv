@@ -1,0 +1,6 @@
+Delay Cause,Total Minutes,Pct_Minutes,Flights Affected,Pct_Flights,Avg Minutes
+Late Aircraft,126931826.0,41.54,2294187,46.78,55.33
+Carrier (Airline),113488882.0,37.14,2339621,47.71,48.51
+NAS (Air System),45490777.0,14.89,1474763,30.07,30.85
+Weather,19020558.0,6.23,266256,5.43,71.44
+Security,617390.0,0.2,19315,0.39,31.96

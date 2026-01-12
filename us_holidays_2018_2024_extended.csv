@@ -1,0 +1,293 @@
+date,holiday_name,is_major_holiday,holiday_category,impact_level,year,month,day,day_of_week,day_of_week_num
+2018-01-01,New Year's Day,1,Winter Holiday,extreme,2018,1,1,Monday,1
+2018-01-15,Martin Luther King Jr. Day,0,Other Holiday,medium,2018,1,15,Monday,1
+2018-02-19,Washington's Birthday,0,Other Holiday,medium,2018,2,19,Monday,1
+2018-03-11,Spring Break,0,School Break,high,2018,3,11,Sunday,7
+2018-03-12,Spring Break,0,School Break,high,2018,3,12,Monday,1
+2018-03-13,Spring Break,0,School Break,high,2018,3,13,Tuesday,2
+2018-03-14,Spring Break,0,School Break,high,2018,3,14,Wednesday,3
+2018-03-15,Spring Break,0,School Break,high,2018,3,15,Thursday,4
+2018-03-16,Spring Break,0,School Break,high,2018,3,16,Friday,5
+2018-03-17,Spring Break,0,School Break,high,2018,3,17,Saturday,6
+2018-03-18,Spring Break,0,School Break,high,2018,3,18,Sunday,7
+2018-03-19,Spring Break,0,School Break,high,2018,3,19,Monday,1
+2018-03-20,Spring Break,0,School Break,high,2018,3,20,Tuesday,2
+2018-05-28,Memorial Day,1,Summer Holiday,high,2018,5,28,Monday,1
+2018-06-15,Summer Vacation Peak,0,Summer Peak,medium,2018,6,15,Friday,5
+2018-06-22,Summer Vacation Peak,0,Summer Peak,medium,2018,6,22,Friday,5
+2018-06-29,Summer Vacation Peak,0,Summer Peak,medium,2018,6,29,Friday,5
+2018-07-04,Independence Day,1,Summer Holiday,high,2018,7,4,Wednesday,3
+2018-07-06,Summer Vacation Peak,0,Summer Peak,medium,2018,7,6,Friday,5
+2018-07-13,Summer Vacation Peak,0,Summer Peak,medium,2018,7,13,Friday,5
+2018-07-20,Summer Vacation Peak,0,Summer Peak,medium,2018,7,20,Friday,5
+2018-07-27,Summer Vacation Peak,0,Summer Peak,medium,2018,7,27,Friday,5
+2018-08-03,Summer Vacation Peak,0,Summer Peak,medium,2018,8,3,Friday,5
+2018-08-10,Summer Vacation Peak,0,Summer Peak,medium,2018,8,10,Friday,5
+2018-09-03,Labor Day,1,Summer Holiday,high,2018,9,3,Monday,1
+2018-10-08,Columbus Day,0,Other Holiday,medium,2018,10,8,Monday,1
+2018-11-11,Veterans Day,0,Other Holiday,medium,2018,11,11,Sunday,7
+2018-11-12,Veterans Day (observed),0,Other Holiday,medium,2018,11,12,Monday,1
+2018-11-19,Thanksgiving Week,1,Winter Holiday,extreme,2018,11,19,Monday,1
+2018-11-20,Thanksgiving Week,1,Winter Holiday,extreme,2018,11,20,Tuesday,2
+2018-11-21,Thanksgiving Week,1,Winter Holiday,extreme,2018,11,21,Wednesday,3
+2018-11-22,Thanksgiving Day,0,Other Holiday,medium,2018,11,22,Thursday,4
+2018-11-23,Thanksgiving Week,1,Winter Holiday,extreme,2018,11,23,Friday,5
+2018-11-24,Thanksgiving Week,1,Winter Holiday,extreme,2018,11,24,Saturday,6
+2018-12-22,Christmas Week,1,Winter Holiday,extreme,2018,12,22,Saturday,6
+2018-12-23,Christmas Week,1,Winter Holiday,extreme,2018,12,23,Sunday,7
+2018-12-24,Christmas Week,1,Winter Holiday,extreme,2018,12,24,Monday,1
+2018-12-25,Christmas Day,1,Winter Holiday,extreme,2018,12,25,Tuesday,2
+2018-12-26,Christmas Week,1,Winter Holiday,extreme,2018,12,26,Wednesday,3
+2018-12-27,Christmas Week,1,Winter Holiday,extreme,2018,12,27,Thursday,4
+2018-12-28,Christmas Week,1,Winter Holiday,extreme,2018,12,28,Friday,5
+2019-01-01,New Year's Day,1,Winter Holiday,extreme,2019,1,1,Tuesday,2
+2019-01-21,Martin Luther King Jr. Day,0,Other Holiday,medium,2019,1,21,Monday,1
+2019-02-18,Washington's Birthday,0,Other Holiday,medium,2019,2,18,Monday,1
+2019-03-11,Spring Break,0,School Break,high,2019,3,11,Monday,1
+2019-03-12,Spring Break,0,School Break,high,2019,3,12,Tuesday,2
+2019-03-13,Spring Break,0,School Break,high,2019,3,13,Wednesday,3
+2019-03-14,Spring Break,0,School Break,high,2019,3,14,Thursday,4
+2019-03-15,Spring Break,0,School Break,high,2019,3,15,Friday,5
+2019-03-16,Spring Break,0,School Break,high,2019,3,16,Saturday,6
+2019-03-17,Spring Break,0,School Break,high,2019,3,17,Sunday,7
+2019-03-18,Spring Break,0,School Break,high,2019,3,18,Monday,1
+2019-03-19,Spring Break,0,School Break,high,2019,3,19,Tuesday,2
+2019-03-20,Spring Break,0,School Break,high,2019,3,20,Wednesday,3
+2019-05-27,Memorial Day,1,Summer Holiday,high,2019,5,27,Monday,1
+2019-06-15,Summer Vacation Peak,0,Summer Peak,medium,2019,6,15,Saturday,6
+2019-06-22,Summer Vacation Peak,0,Summer Peak,medium,2019,6,22,Saturday,6
+2019-06-29,Summer Vacation Peak,0,Summer Peak,medium,2019,6,29,Saturday,6
+2019-07-04,Independence Day,1,Summer Holiday,high,2019,7,4,Thursday,4
+2019-07-06,Summer Vacation Peak,0,Summer Peak,medium,2019,7,6,Saturday,6
+2019-07-13,Summer Vacation Peak,0,Summer Peak,medium,2019,7,13,Saturday,6
+2019-07-20,Summer Vacation Peak,0,Summer Peak,medium,2019,7,20,Saturday,6
+2019-07-27,Summer Vacation Peak,0,Summer Peak,medium,2019,7,27,Saturday,6
+2019-08-03,Summer Vacation Peak,0,Summer Peak,medium,2019,8,3,Saturday,6
+2019-08-10,Summer Vacation Peak,0,Summer Peak,medium,2019,8,10,Saturday,6
+2019-09-02,Labor Day,1,Summer Holiday,high,2019,9,2,Monday,1
+2019-10-14,Columbus Day,0,Other Holiday,medium,2019,10,14,Monday,1
+2019-11-11,Veterans Day,0,Other Holiday,medium,2019,11,11,Monday,1
+2019-11-25,Thanksgiving Week,1,Winter Holiday,extreme,2019,11,25,Monday,1
+2019-11-26,Thanksgiving Week,1,Winter Holiday,extreme,2019,11,26,Tuesday,2
+2019-11-27,Thanksgiving Week,1,Winter Holiday,extreme,2019,11,27,Wednesday,3
+2019-11-28,Thanksgiving Day,0,Other Holiday,medium,2019,11,28,Thursday,4
+2019-11-29,Thanksgiving Week,1,Winter Holiday,extreme,2019,11,29,Friday,5
+2019-11-30,Thanksgiving Week,1,Winter Holiday,extreme,2019,11,30,Saturday,6
+2019-12-22,Christmas Week,1,Winter Holiday,extreme,2019,12,22,Sunday,7
+2019-12-23,Christmas Week,1,Winter Holiday,extreme,2019,12,23,Monday,1
+2019-12-24,Christmas Week,1,Winter Holiday,extreme,2019,12,24,Tuesday,2
+2019-12-25,Christmas Day,1,Winter Holiday,extreme,2019,12,25,Wednesday,3
+2019-12-26,Christmas Week,1,Winter Holiday,extreme,2019,12,26,Thursday,4
+2019-12-27,Christmas Week,1,Winter Holiday,extreme,2019,12,27,Friday,5
+2019-12-28,Christmas Week,1,Winter Holiday,extreme,2019,12,28,Saturday,6
+2020-01-01,New Year's Day,1,Winter Holiday,extreme,2020,1,1,Wednesday,3
+2020-01-20,Martin Luther King Jr. Day,0,Other Holiday,medium,2020,1,20,Monday,1
+2020-02-17,Washington's Birthday,0,Other Holiday,medium,2020,2,17,Monday,1
+2020-03-11,Spring Break,0,School Break,high,2020,3,11,Wednesday,3
+2020-03-12,Spring Break,0,School Break,high,2020,3,12,Thursday,4
+2020-03-13,Spring Break,0,School Break,high,2020,3,13,Friday,5
+2020-03-14,Spring Break,0,School Break,high,2020,3,14,Saturday,6
+2020-03-15,Spring Break,0,School Break,high,2020,3,15,Sunday,7
+2020-03-16,Spring Break,0,School Break,high,2020,3,16,Monday,1
+2020-03-17,Spring Break,0,School Break,high,2020,3,17,Tuesday,2
+2020-03-18,Spring Break,0,School Break,high,2020,3,18,Wednesday,3
+2020-03-19,Spring Break,0,School Break,high,2020,3,19,Thursday,4
+2020-03-20,Spring Break,0,School Break,high,2020,3,20,Friday,5
+2020-05-25,Memorial Day,1,Summer Holiday,high,2020,5,25,Monday,1
+2020-06-15,Summer Vacation Peak,0,Summer Peak,medium,2020,6,15,Monday,1
+2020-06-22,Summer Vacation Peak,0,Summer Peak,medium,2020,6,22,Monday,1
+2020-06-29,Summer Vacation Peak,0,Summer Peak,medium,2020,6,29,Monday,1
+2020-07-03,Independence Day (observed),0,Other Holiday,medium,2020,7,3,Friday,5
+2020-07-04,Independence Day,1,Summer Holiday,high,2020,7,4,Saturday,6
+2020-07-06,Summer Vacation Peak,0,Summer Peak,medium,2020,7,6,Monday,1
+2020-07-13,Summer Vacation Peak,0,Summer Peak,medium,2020,7,13,Monday,1
+2020-07-20,Summer Vacation Peak,0,Summer Peak,medium,2020,7,20,Monday,1
+2020-07-27,Summer Vacation Peak,0,Summer Peak,medium,2020,7,27,Monday,1
+2020-08-03,Summer Vacation Peak,0,Summer Peak,medium,2020,8,3,Monday,1
+2020-08-10,Summer Vacation Peak,0,Summer Peak,medium,2020,8,10,Monday,1
+2020-09-07,Labor Day,1,Summer Holiday,high,2020,9,7,Monday,1
+2020-10-12,Columbus Day,0,Other Holiday,medium,2020,10,12,Monday,1
+2020-11-11,Veterans Day,0,Other Holiday,medium,2020,11,11,Wednesday,3
+2020-11-23,Thanksgiving Week,1,Winter Holiday,extreme,2020,11,23,Monday,1
+2020-11-24,Thanksgiving Week,1,Winter Holiday,extreme,2020,11,24,Tuesday,2
+2020-11-25,Thanksgiving Week,1,Winter Holiday,extreme,2020,11,25,Wednesday,3
+2020-11-26,Thanksgiving Day,0,Other Holiday,medium,2020,11,26,Thursday,4
+2020-11-27,Thanksgiving Week,1,Winter Holiday,extreme,2020,11,27,Friday,5
+2020-11-28,Thanksgiving Week,1,Winter Holiday,extreme,2020,11,28,Saturday,6
+2020-12-22,Christmas Week,1,Winter Holiday,extreme,2020,12,22,Tuesday,2
+2020-12-23,Christmas Week,1,Winter Holiday,extreme,2020,12,23,Wednesday,3
+2020-12-24,Christmas Week,1,Winter Holiday,extreme,2020,12,24,Thursday,4
+2020-12-25,Christmas Day,1,Winter Holiday,extreme,2020,12,25,Friday,5
+2020-12-26,Christmas Week,1,Winter Holiday,extreme,2020,12,26,Saturday,6
+2020-12-27,Christmas Week,1,Winter Holiday,extreme,2020,12,27,Sunday,7
+2020-12-28,Christmas Week,1,Winter Holiday,extreme,2020,12,28,Monday,1
+2021-01-01,New Year's Day,1,Winter Holiday,extreme,2021,1,1,Friday,5
+2021-01-18,Martin Luther King Jr. Day,0,Other Holiday,medium,2021,1,18,Monday,1
+2021-02-15,Washington's Birthday,0,Other Holiday,medium,2021,2,15,Monday,1
+2021-03-11,Spring Break,0,School Break,high,2021,3,11,Thursday,4
+2021-03-12,Spring Break,0,School Break,high,2021,3,12,Friday,5
+2021-03-13,Spring Break,0,School Break,high,2021,3,13,Saturday,6
+2021-03-14,Spring Break,0,School Break,high,2021,3,14,Sunday,7
+2021-03-15,Spring Break,0,School Break,high,2021,3,15,Monday,1
+2021-03-16,Spring Break,0,School Break,high,2021,3,16,Tuesday,2
+2021-03-17,Spring Break,0,School Break,high,2021,3,17,Wednesday,3
+2021-03-18,Spring Break,0,School Break,high,2021,3,18,Thursday,4
+2021-03-19,Spring Break,0,School Break,high,2021,3,19,Friday,5
+2021-03-20,Spring Break,0,School Break,high,2021,3,20,Saturday,6
+2021-05-31,Memorial Day,1,Summer Holiday,high,2021,5,31,Monday,1
+2021-06-15,Summer Vacation Peak,0,Summer Peak,medium,2021,6,15,Tuesday,2
+2021-06-18,Juneteenth National Independence Day (observed),0,Other Holiday,medium,2021,6,18,Friday,5
+2021-06-19,Juneteenth National Independence Day,0,Other Holiday,medium,2021,6,19,Saturday,6
+2021-06-22,Summer Vacation Peak,0,Summer Peak,medium,2021,6,22,Tuesday,2
+2021-06-29,Summer Vacation Peak,0,Summer Peak,medium,2021,6,29,Tuesday,2
+2021-07-04,Independence Day,1,Summer Holiday,high,2021,7,4,Sunday,7
+2021-07-05,Independence Day (observed),0,Other Holiday,medium,2021,7,5,Monday,1
+2021-07-06,Summer Vacation Peak,0,Summer Peak,medium,2021,7,6,Tuesday,2
+2021-07-13,Summer Vacation Peak,0,Summer Peak,medium,2021,7,13,Tuesday,2
+2021-07-20,Summer Vacation Peak,0,Summer Peak,medium,2021,7,20,Tuesday,2
+2021-07-27,Summer Vacation Peak,0,Summer Peak,medium,2021,7,27,Tuesday,2
+2021-08-03,Summer Vacation Peak,0,Summer Peak,medium,2021,8,3,Tuesday,2
+2021-08-10,Summer Vacation Peak,0,Summer Peak,medium,2021,8,10,Tuesday,2
+2021-09-06,Labor Day,1,Summer Holiday,high,2021,9,6,Monday,1
+2021-10-11,Columbus Day,0,Other Holiday,medium,2021,10,11,Monday,1
+2021-11-11,Veterans Day,0,Other Holiday,medium,2021,11,11,Thursday,4
+2021-11-22,Thanksgiving Week,1,Winter Holiday,extreme,2021,11,22,Monday,1
+2021-11-23,Thanksgiving Week,1,Winter Holiday,extreme,2021,11,23,Tuesday,2
+2021-11-24,Thanksgiving Week,1,Winter Holiday,extreme,2021,11,24,Wednesday,3
+2021-11-25,Thanksgiving Day,0,Other Holiday,medium,2021,11,25,Thursday,4
+2021-11-26,Thanksgiving Week,1,Winter Holiday,extreme,2021,11,26,Friday,5
+2021-11-27,Thanksgiving Week,1,Winter Holiday,extreme,2021,11,27,Saturday,6
+2021-12-22,Christmas Week,1,Winter Holiday,extreme,2021,12,22,Wednesday,3
+2021-12-23,Christmas Week,1,Winter Holiday,extreme,2021,12,23,Thursday,4
+2021-12-24,Christmas Day (observed),0,Other Holiday,medium,2021,12,24,Friday,5
+2021-12-25,Christmas Day,1,Winter Holiday,extreme,2021,12,25,Saturday,6
+2021-12-26,Christmas Week,1,Winter Holiday,extreme,2021,12,26,Sunday,7
+2021-12-27,Christmas Week,1,Winter Holiday,extreme,2021,12,27,Monday,1
+2021-12-28,Christmas Week,1,Winter Holiday,extreme,2021,12,28,Tuesday,2
+2021-12-31,New Year's Day (observed),0,Other Holiday,medium,2021,12,31,Friday,5
+2022-01-01,New Year's Day,1,Winter Holiday,extreme,2022,1,1,Saturday,6
+2022-01-17,Martin Luther King Jr. Day,0,Other Holiday,medium,2022,1,17,Monday,1
+2022-02-21,Washington's Birthday,0,Other Holiday,medium,2022,2,21,Monday,1
+2022-03-11,Spring Break,0,School Break,high,2022,3,11,Friday,5
+2022-03-12,Spring Break,0,School Break,high,2022,3,12,Saturday,6
+2022-03-13,Spring Break,0,School Break,high,2022,3,13,Sunday,7
+2022-03-14,Spring Break,0,School Break,high,2022,3,14,Monday,1
+2022-03-15,Spring Break,0,School Break,high,2022,3,15,Tuesday,2
+2022-03-16,Spring Break,0,School Break,high,2022,3,16,Wednesday,3
+2022-03-17,Spring Break,0,School Break,high,2022,3,17,Thursday,4
+2022-03-18,Spring Break,0,School Break,high,2022,3,18,Friday,5
+2022-03-19,Spring Break,0,School Break,high,2022,3,19,Saturday,6
+2022-03-20,Spring Break,0,School Break,high,2022,3,20,Sunday,7
+2022-05-30,Memorial Day,1,Summer Holiday,high,2022,5,30,Monday,1
+2022-06-15,Summer Vacation Peak,0,Summer Peak,medium,2022,6,15,Wednesday,3
+2022-06-19,Juneteenth National Independence Day,0,Other Holiday,medium,2022,6,19,Sunday,7
+2022-06-20,Juneteenth National Independence Day (observed),0,Other Holiday,medium,2022,6,20,Monday,1
+2022-06-22,Summer Vacation Peak,0,Summer Peak,medium,2022,6,22,Wednesday,3
+2022-06-29,Summer Vacation Peak,0,Summer Peak,medium,2022,6,29,Wednesday,3
+2022-07-04,Independence Day,1,Summer Holiday,high,2022,7,4,Monday,1
+2022-07-06,Summer Vacation Peak,0,Summer Peak,medium,2022,7,6,Wednesday,3
+2022-07-13,Summer Vacation Peak,0,Summer Peak,medium,2022,7,13,Wednesday,3
+2022-07-20,Summer Vacation Peak,0,Summer Peak,medium,2022,7,20,Wednesday,3
+2022-07-27,Summer Vacation Peak,0,Summer Peak,medium,2022,7,27,Wednesday,3
+2022-08-03,Summer Vacation Peak,0,Summer Peak,medium,2022,8,3,Wednesday,3
+2022-08-10,Summer Vacation Peak,0,Summer Peak,medium,2022,8,10,Wednesday,3
+2022-09-05,Labor Day,1,Summer Holiday,high,2022,9,5,Monday,1
+2022-10-10,Columbus Day,0,Other Holiday,medium,2022,10,10,Monday,1
+2022-11-11,Veterans Day,0,Other Holiday,medium,2022,11,11,Friday,5
+2022-11-21,Thanksgiving Week,1,Winter Holiday,extreme,2022,11,21,Monday,1
+2022-11-22,Thanksgiving Week,1,Winter Holiday,extreme,2022,11,22,Tuesday,2
+2022-11-23,Thanksgiving Week,1,Winter Holiday,extreme,2022,11,23,Wednesday,3
+2022-11-24,Thanksgiving Day,0,Other Holiday,medium,2022,11,24,Thursday,4
+2022-11-25,Thanksgiving Week,1,Winter Holiday,extreme,2022,11,25,Friday,5
+2022-11-26,Thanksgiving Week,1,Winter Holiday,extreme,2022,11,26,Saturday,6
+2022-12-22,Christmas Week,1,Winter Holiday,extreme,2022,12,22,Thursday,4
+2022-12-23,Christmas Week,1,Winter Holiday,extreme,2022,12,23,Friday,5
+2022-12-24,Christmas Week,1,Winter Holiday,extreme,2022,12,24,Saturday,6
+2022-12-25,Christmas Day,1,Winter Holiday,extreme,2022,12,25,Sunday,7
+2022-12-26,Christmas Day (observed),0,Other Holiday,medium,2022,12,26,Monday,1
+2022-12-27,Christmas Week,1,Winter Holiday,extreme,2022,12,27,Tuesday,2
+2022-12-28,Christmas Week,1,Winter Holiday,extreme,2022,12,28,Wednesday,3
+2023-01-01,New Year's Day,1,Winter Holiday,extreme,2023,1,1,Sunday,7
+2023-01-02,New Year's Day (observed),0,Other Holiday,medium,2023,1,2,Monday,1
+2023-01-16,Martin Luther King Jr. Day,0,Other Holiday,medium,2023,1,16,Monday,1
+2023-02-20,Washington's Birthday,0,Other Holiday,medium,2023,2,20,Monday,1
+2023-03-11,Spring Break,0,School Break,high,2023,3,11,Saturday,6
+2023-03-12,Spring Break,0,School Break,high,2023,3,12,Sunday,7
+2023-03-13,Spring Break,0,School Break,high,2023,3,13,Monday,1
+2023-03-14,Spring Break,0,School Break,high,2023,3,14,Tuesday,2
+2023-03-15,Spring Break,0,School Break,high,2023,3,15,Wednesday,3
+2023-03-16,Spring Break,0,School Break,high,2023,3,16,Thursday,4
+2023-03-17,Spring Break,0,School Break,high,2023,3,17,Friday,5
+2023-03-18,Spring Break,0,School Break,high,2023,3,18,Saturday,6
+2023-03-19,Spring Break,0,School Break,high,2023,3,19,Sunday,7
+2023-03-20,Spring Break,0,School Break,high,2023,3,20,Monday,1
+2023-05-29,Memorial Day,1,Summer Holiday,high,2023,5,29,Monday,1
+2023-06-15,Summer Vacation Peak,0,Summer Peak,medium,2023,6,15,Thursday,4
+2023-06-19,Juneteenth National Independence Day,0,Other Holiday,medium,2023,6,19,Monday,1
+2023-06-22,Summer Vacation Peak,0,Summer Peak,medium,2023,6,22,Thursday,4
+2023-06-29,Summer Vacation Peak,0,Summer Peak,medium,2023,6,29,Thursday,4
+2023-07-04,Independence Day,1,Summer Holiday,high,2023,7,4,Tuesday,2
+2023-07-06,Summer Vacation Peak,0,Summer Peak,medium,2023,7,6,Thursday,4
+2023-07-13,Summer Vacation Peak,0,Summer Peak,medium,2023,7,13,Thursday,4
+2023-07-20,Summer Vacation Peak,0,Summer Peak,medium,2023,7,20,Thursday,4
+2023-07-27,Summer Vacation Peak,0,Summer Peak,medium,2023,7,27,Thursday,4
+2023-08-03,Summer Vacation Peak,0,Summer Peak,medium,2023,8,3,Thursday,4
+2023-08-10,Summer Vacation Peak,0,Summer Peak,medium,2023,8,10,Thursday,4
+2023-09-04,Labor Day,1,Summer Holiday,high,2023,9,4,Monday,1
+2023-10-09,Columbus Day,0,Other Holiday,medium,2023,10,9,Monday,1
+2023-11-10,Veterans Day (observed),0,Other Holiday,medium,2023,11,10,Friday,5
+2023-11-11,Veterans Day,0,Other Holiday,medium,2023,11,11,Saturday,6
+2023-11-20,Thanksgiving Week,1,Winter Holiday,extreme,2023,11,20,Monday,1
+2023-11-21,Thanksgiving Week,1,Winter Holiday,extreme,2023,11,21,Tuesday,2
+2023-11-22,Thanksgiving Week,1,Winter Holiday,extreme,2023,11,22,Wednesday,3
+2023-11-23,Thanksgiving Day,0,Other Holiday,medium,2023,11,23,Thursday,4
+2023-11-24,Thanksgiving Week,1,Winter Holiday,extreme,2023,11,24,Friday,5
+2023-11-25,Thanksgiving Week,1,Winter Holiday,extreme,2023,11,25,Saturday,6
+2023-12-22,Christmas Week,1,Winter Holiday,extreme,2023,12,22,Friday,5
+2023-12-23,Christmas Week,1,Winter Holiday,extreme,2023,12,23,Saturday,6
+2023-12-24,Christmas Week,1,Winter Holiday,extreme,2023,12,24,Sunday,7
+2023-12-25,Christmas Day,1,Winter Holiday,extreme,2023,12,25,Monday,1
+2023-12-26,Christmas Week,1,Winter Holiday,extreme,2023,12,26,Tuesday,2
+2023-12-27,Christmas Week,1,Winter Holiday,extreme,2023,12,27,Wednesday,3
+2023-12-28,Christmas Week,1,Winter Holiday,extreme,2023,12,28,Thursday,4
+2024-01-01,New Year's Day,1,Winter Holiday,extreme,2024,1,1,Monday,1
+2024-01-15,Martin Luther King Jr. Day,0,Other Holiday,medium,2024,1,15,Monday,1
+2024-02-19,Washington's Birthday,0,Other Holiday,medium,2024,2,19,Monday,1
+2024-03-11,Spring Break,0,School Break,high,2024,3,11,Monday,1
+2024-03-12,Spring Break,0,School Break,high,2024,3,12,Tuesday,2
+2024-03-13,Spring Break,0,School Break,high,2024,3,13,Wednesday,3
+2024-03-14,Spring Break,0,School Break,high,2024,3,14,Thursday,4
+2024-03-15,Spring Break,0,School Break,high,2024,3,15,Friday,5
+2024-03-16,Spring Break,0,School Break,high,2024,3,16,Saturday,6
+2024-03-17,Spring Break,0,School Break,high,2024,3,17,Sunday,7
+2024-03-18,Spring Break,0,School Break,high,2024,3,18,Monday,1
+2024-03-19,Spring Break,0,School Break,high,2024,3,19,Tuesday,2
+2024-03-20,Spring Break,0,School Break,high,2024,3,20,Wednesday,3
+2024-05-27,Memorial Day,1,Summer Holiday,high,2024,5,27,Monday,1
+2024-06-15,Summer Vacation Peak,0,Summer Peak,medium,2024,6,15,Saturday,6
+2024-06-19,Juneteenth National Independence Day,0,Other Holiday,medium,2024,6,19,Wednesday,3
+2024-06-22,Summer Vacation Peak,0,Summer Peak,medium,2024,6,22,Saturday,6
+2024-06-29,Summer Vacation Peak,0,Summer Peak,medium,2024,6,29,Saturday,6
+2024-07-04,Independence Day,1,Summer Holiday,high,2024,7,4,Thursday,4
+2024-07-06,Summer Vacation Peak,0,Summer Peak,medium,2024,7,6,Saturday,6
+2024-07-13,Summer Vacation Peak,0,Summer Peak,medium,2024,7,13,Saturday,6
+2024-07-20,Summer Vacation Peak,0,Summer Peak,medium,2024,7,20,Saturday,6
+2024-07-27,Summer Vacation Peak,0,Summer Peak,medium,2024,7,27,Saturday,6
+2024-08-03,Summer Vacation Peak,0,Summer Peak,medium,2024,8,3,Saturday,6
+2024-08-10,Summer Vacation Peak,0,Summer Peak,medium,2024,8,10,Saturday,6
+2024-09-02,Labor Day,1,Summer Holiday,high,2024,9,2,Monday,1
+2024-10-14,Columbus Day,0,Other Holiday,medium,2024,10,14,Monday,1
+2024-11-11,Veterans Day,0,Other Holiday,medium,2024,11,11,Monday,1
+2024-11-25,Thanksgiving Week,1,Winter Holiday,extreme,2024,11,25,Monday,1
+2024-11-26,Thanksgiving Week,1,Winter Holiday,extreme,2024,11,26,Tuesday,2
+2024-11-27,Thanksgiving Week,1,Winter Holiday,extreme,2024,11,27,Wednesday,3
+2024-11-28,Thanksgiving Day,0,Other Holiday,medium,2024,11,28,Thursday,4
+2024-11-29,Thanksgiving Week,1,Winter Holiday,extreme,2024,11,29,Friday,5
+2024-11-30,Thanksgiving Week,1,Winter Holiday,extreme,2024,11,30,Saturday,6
+2024-12-22,Christmas Week,1,Winter Holiday,extreme,2024,12,22,Sunday,7
+2024-12-23,Christmas Week,1,Winter Holiday,extreme,2024,12,23,Monday,1
+2024-12-24,Christmas Week,1,Winter Holiday,extreme,2024,12,24,Tuesday,2
+2024-12-25,Christmas Day,1,Winter Holiday,extreme,2024,12,25,Wednesday,3
+2024-12-26,Christmas Week,1,Winter Holiday,extreme,2024,12,26,Thursday,4
+2024-12-27,Christmas Week,1,Winter Holiday,extreme,2024,12,27,Friday,5
+2024-12-28,Christmas Week,1,Winter Holiday,extreme,2024,12,28,Saturday,6

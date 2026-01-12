@@ -1,0 +1,98 @@
+airport_code,airport_name,latitude,longitude,city,state
+ATL,Hartsfield-Jackson Atlanta International,33.6407,-84.4277,Atlanta,GA
+DFW,Dallas/Fort Worth International,32.8998,-97.0403,Dallas,TX
+DEN,Denver International,39.8561,-104.6737,Denver,CO
+ORD,Chicago O'Hare International,41.9742,-87.9073,Chicago,IL
+LAX,Los Angeles International,33.9416,-118.4085,Los Angeles,CA
+JFK,John F. Kennedy International,40.6413,-73.7781,New York,NY
+LAS,Harry Reid International (Las Vegas),36.084,-115.1537,Las Vegas,NV
+MCO,Orlando International,28.4312,-81.3081,Orlando,FL
+MIA,Miami International,25.7959,-80.287,Miami,FL
+CLT,Charlotte Douglas International,35.2144,-80.9473,Charlotte,NC
+SEA,Seattle-Tacoma International,47.4502,-122.3088,Seattle,WA
+PHX,Phoenix Sky Harbor International,33.4484,-112.074,Phoenix,AZ
+EWR,Newark Liberty International,40.6895,-74.1745,Newark,NJ
+SFO,San Francisco International,37.6213,-122.379,San Francisco,CA
+IAH,George Bush Intercontinental,29.9902,-95.3368,Houston,TX
+BOS,Boston Logan International,42.3656,-71.0096,Boston,MA
+FLL,Fort Lauderdale-Hollywood International,26.0742,-80.1506,Fort Lauderdale,FL
+MSP,Minneapolis-St Paul International,44.8848,-93.2223,Minneapolis,MN
+LGA,LaGuardia Airport,40.7769,-73.874,New York,NY
+DTW,Detroit Metropolitan Wayne County,42.2162,-83.3554,Detroit,MI
+PHL,Philadelphia International,39.8744,-75.2424,Philadelphia,PA
+SLC,Salt Lake City International,40.7899,-111.9791,Salt Lake City,UT
+DCA,Ronald Reagan Washington National,38.8521,-77.0377,Washington,DC
+SAN,San Diego International,32.7338,-117.1933,San Diego,CA
+IAD,Washington Dulles International,38.9531,-77.4565,Washington,DC
+TPA,Tampa International,27.9755,-82.5332,Tampa,FL
+PDX,Portland International,45.5898,-122.5951,Portland,OR
+BWI,Baltimore/Washington International,39.1774,-76.6684,Baltimore,MD
+STL,St. Louis Lambert International,38.7499,-90.37,St. Louis,MO
+MDW,Chicago Midway International,41.7868,-87.7522,Chicago,IL
+HOU,William P. Hobby Airport,29.6454,-95.2789,Houston,TX
+DAL,Dallas Love Field,32.847,-96.8517,Dallas,TX
+AUS,Austin-Bergstrom International,30.1975,-97.6664,Austin,TX
+HNL,Daniel K. Inouye International (Honolulu),21.3245,-157.9251,Honolulu,HI
+MSY,Louis Armstrong New Orleans International,29.9934,-90.258,New Orleans,LA
+BNA,Nashville International,36.1263,-86.6681,Nashville,TN
+OAK,Oakland International,37.7126,-122.2197,Oakland,CA
+SJC,Norman Y. Mineta San Jose International,37.3639,-121.9289,San Jose,CA
+RDU,Raleigh-Durham International,35.8801,-78.788,Raleigh,NC
+SAT,San Antonio International,29.5337,-98.4698,San Antonio,TX
+SMF,Sacramento International,38.6954,-121.5908,Sacramento,CA
+RSW,Southwest Florida International,26.5362,-81.7552,Fort Myers,FL
+PIT,Pittsburgh International,40.4915,-80.2329,Pittsburgh,PA
+IND,Indianapolis International,39.7173,-86.2944,Indianapolis,IN
+CVG,Cincinnati/Northern Kentucky International,39.0533,-84.663,Cincinnati,KY
+CMH,John Glenn Columbus International,40.0799,-82.8919,Columbus,OH
+CLE,Cleveland Hopkins International,41.4117,-81.8498,Cleveland,OH
+MCI,Kansas City International,39.2976,-94.7139,Kansas City,MO
+MKE,Milwaukee Mitchell International,42.9472,-87.8966,Milwaukee,WI
+ANC,Ted Stevens Anchorage International,61.1743,-149.9962,Anchorage,AK
+BUF,Buffalo Niagara International,42.9405,-78.7322,Buffalo,NY
+OMA,Eppley Airfield,41.3032,-95.8941,Omaha,NE
+OGG,Kahului Airport,20.8986,-156.4306,Kahului,HI
+SNA,John Wayne Airport,33.6762,-117.8681,Santa Ana,CA
+RNO,Reno-Tahoe International,39.4991,-119.7681,Reno,NV
+BDL,Bradley International,41.9389,-72.6832,Hartford,CT
+TUS,Tucson International,32.1161,-110.941,Tucson,AZ
+BUR,Hollywood Burbank Airport,34.2007,-118.3585,Burbank,CA
+ONT,Ontario International,34.056,-117.6012,Ontario,CA
+ABQ,Albuquerque International Sunport,35.0402,-106.6092,Albuquerque,NM
+JAX,Jacksonville International,30.4941,-81.6879,Jacksonville,FL
+SJU,Luis Muñoz Marín International,18.4394,-66.0018,San Juan,PR
+PBI,Palm Beach International,26.6832,-80.0956,West Palm Beach,FL
+MEM,Memphis International,35.0424,-89.9767,Memphis,TN
+BOI,Boise Airport,43.5644,-116.2228,Boise,ID
+SYR,Syracuse Hancock International,43.1112,-76.1063,Syracuse,NY
+DSM,Des Moines International,41.534,-93.6631,Des Moines,IA
+ALB,Albany International,42.7483,-73.8017,Albany,NY
+LGB,Long Beach Airport,33.8177,-118.1516,Long Beach,CA
+ELP,El Paso International,31.8072,-106.3778,El Paso,TX
+GEG,Spokane International,47.6199,-117.5339,Spokane,WA
+PVD,Rhode Island T.F. Green International,41.724,-71.4281,Providence,RI
+ISP,Long Island MacArthur Airport,40.7952,-73.1002,Islip,NY
+PSP,Palm Springs International,33.8297,-116.5067,Palm Springs,CA
+DAY,James M. Cox Dayton International,39.9024,-84.2194,Dayton,OH
+CHS,Charleston International,32.8986,-80.0405,Charleston,SC
+GRR,Gerald R. Ford International,42.8808,-85.5228,Grand Rapids,MI
+ICT,Wichita Dwight D. Eisenhower National,37.6499,-97.4331,Wichita,KS
+SAV,Savannah/Hilton Head International,32.1276,-81.2021,Savannah,GA
+ROC,Greater Rochester International,43.1189,-77.6724,Rochester,NY
+TUL,Tulsa International,36.1984,-95.8881,Tulsa,OK
+GSO,Piedmont Triad International,36.0978,-79.9373,Greensboro,NC
+PWM,Portland International Jetport,43.6456,-70.3093,Portland,ME
+MHT,Manchester-Boston Regional,42.9326,-71.4357,Manchester,NH
+GSP,Greenville-Spartanburg International,34.8957,-82.2189,Greenville,SC
+FAT,Fresno Yosemite International,36.7762,-119.7181,Fresno,CA
+COS,Colorado Springs Airport,38.8058,-104.7008,Colorado Springs,CO
+LIT,Bill and Hillary Clinton National,34.7294,-92.2243,Little Rock,AR
+SDF,Louisville Muhammad Ali International,38.1744,-85.7364,Louisville,KY
+MSN,Dane County Regional,43.1399,-89.3375,Madison,WI
+CAK,Akron-Canton Airport,40.9161,-81.4422,Akron,OH
+BHM,Birmingham-Shuttlesworth International,33.5629,-86.7535,Birmingham,AL
+OKC,Will Rogers World Airport,35.3931,-97.6007,Oklahoma City,OK
+BTV,Burlington International,44.4719,-73.1533,Burlington,VT
+RIC,Richmond International,37.5052,-77.3197,Richmond,VA
+HSV,Huntsville International,34.6372,-86.7751,Huntsville,AL
+GNV,Gainesville Regional,29.69,-82.2718,Gainesville,FL
