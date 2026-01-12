@@ -6,7 +6,7 @@ optimizing for raw accuracy on imbalanced data, the work prioritizes recall and
 operational cost reduction, following the principle: better a false alarm than a
 missed delay.
 
-The accompanying article is in `Data Analysis/A Cost-Sensitive Approach .pdf`.
+The accompanying article is in `A Cost-Sensitive Approach .pdf`.
 
 ## Project Summary
 - Scope: 2018-2022 U.S. BTS on-time performance data with Meteostat weather.
@@ -41,7 +41,7 @@ include `.parquet` outputs such as:
 - `flights_with_weather_by_year/*.parquet`
 - `flights_with_weather_propagation_by_year/*.parquet`
 
-## Methodology (from the paper)
+## Methodology 
 1) Strategic horizon (T-12/T-24): avoid real-time features that are not
    available a day ahead.
 2) Leakage-free features:
@@ -51,7 +51,7 @@ include `.parquet` outputs such as:
    - Total_Cost = 5 * FN + 1 * FP
    - Implemented via class weighting (e.g., LightGBM scale_pos_weight).
 
-## Empirical Insights (from analysis + paper)
+## Empirical Insights 
 - Delay causes (total minutes): Late Aircraft (~41.5%), Carrier (~37.1%),
   NAS (~14.9%), Weather (~6.2%), Security (~0.2%).
 - Temporal dynamics dominate: early morning flights are least delayed;
